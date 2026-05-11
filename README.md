@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m currently working on<br>Building practical school projects, from web systems to robotics<br><br>I’m looking to collaborate on<br>Creative web apps, UI redesigns, and beginner-friendly programming projects<br><br>I’m looking for help with<br>Backend logic, database connections, and making my projects more complete<br><br>I’m currently learning<br>Web development, database systems, Arduino, and digital logic design<br><br>Ask me about<br>UI ideas, project planning, line follower robots, and student tech projects<br><br>Fun fact<br>I enjoy improving boring designs and making them look clean, modern, and aesthetic
 
 
